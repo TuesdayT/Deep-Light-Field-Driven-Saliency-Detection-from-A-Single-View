@@ -2,7 +2,14 @@
 ## Introduction
 Accepted paper in IJCAI2019, 'Deep Light-Field-Driven Saliency Detection from A Single View', [Yongri Piao](http://ice.dlut.edu.cn/yrpiao/), Zhengkun Rong, Miao Zhang, Xiao Li and [Huchuan Lu](http://ice.dlut.edu.cn/lu/publications.html).
 
-## Dataset: LF_Lens
+## Dataset: DUTLF
+* This dataset consists of DUTLF-MV, DUTLF-FS and DUTLF-Depth.
+* The dataset will be expanded to 3000 or so real scenes.
+* We are working on it and will make it publicly available soon.
+
+## Dataset: DUTLF-MV
+* DUTLF-MV is part of DUTLF, which consists of 1580 real scenes.
+* Each scene of this dataset consists of an all-focus image, multi-view images and a corresponding ground truth.
 * Dataset can be downloaded from [here](https://pan.baidu.com/s/1hvrTL4PQp-PZ6QZEl5fH7Q). Code: 9c7k
 * Training set: 1100 samples before data augmentation
 * Testing set: 480 samples
